@@ -7,8 +7,7 @@
 	"app":{
 		"env":{},
 		"cmd":[
-			"ls -la",
-			""
+			"ls -la"
 		],
 		"port":80
 	}
